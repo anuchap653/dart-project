@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   // ขอให้ผู้ใช้ใส่ตัวอักษร
-  stdout.write('กรุณากรอกตัวอักษร: ');
+  stdout.write('กรุณากรอกตัวอักษร Eng: ');
   String? input = stdin.readLineSync();
 
   // เช็คว่าผู้ใช้ใส่ตัวอักษรหนึ่งตัวหรือไม่
